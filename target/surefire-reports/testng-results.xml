@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-19T15:30:57 IST" name="Suite" finished-at="2023-12-19T15:31:10 IST" duration-ms="12985">
+    <groups>
+    </groups>
+    <test started-at="2023-12-19T15:30:57 IST" name="Test" finished-at="2023-12-19T15:31:10 IST" duration-ms="12985">
+      <class name="testNG_annotationExample.NOP_LoginTest">
+        <test-method is-config="true" signature="BeforeSuite1()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:30:57 IST" name="BeforeSuite1" finished-at="2023-12-19T15:30:57 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite1 -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:01 IST" name="setup" finished-at="2023-12-19T15:31:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeClassExample()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:02 IST" name="beforeClassExample" finished-at="2023-12-19T15:31:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassExample -->
+        <test-method is-config="true" signature="beforeMethodExample()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:02 IST" name="beforeMethodExample" finished-at="2023-12-19T15:31:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExample -->
+        <test-method signature="verifyLoginFeature()[pri:-1, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:02 IST" name="verifyLoginFeature" finished-at="2023-12-19T15:31:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFeature -->
+        <test-method is-config="true" signature="afterMethodExample()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:02 IST" name="afterMethodExample" finished-at="2023-12-19T15:31:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodExample -->
+        <test-method signature="verifyAddCustFeature()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:02 IST" name="verifyAddCustFeature" finished-at="2023-12-19T15:31:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddCustFeature -->
+        <test-method is-config="true" signature="beforeMethodExample()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:02 IST" name="beforeMethodExample" finished-at="2023-12-19T15:31:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExample -->
+        <test-method is-config="true" signature="afterMethodExample()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:02 IST" name="afterMethodExample" finished-at="2023-12-19T15:31:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodExample -->
+        <test-method signature="verifyAppTitleFeature()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:02 IST" name="verifyAppTitleFeature" finished-at="2023-12-19T15:31:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAppTitleFeature -->
+        <test-method is-config="true" signature="afterMethodExample()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:02 IST" name="afterMethodExample" finished-at="2023-12-19T15:31:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodExample -->
+        <test-method is-config="true" signature="beforeMethodExample()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:02 IST" name="beforeMethodExample" finished-at="2023-12-19T15:31:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExample -->
+        <test-method signature="verifyLogoutFeature()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:02 IST" name="verifyLogoutFeature" finished-at="2023-12-19T15:31:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoutFeature -->
+        <test-method is-config="true" signature="afterMethodExample()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:02 IST" name="afterMethodExample" finished-at="2023-12-19T15:31:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodExample -->
+        <test-method is-config="true" signature="afterClassExample()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:02 IST" name="afterClassExample" finished-at="2023-12-19T15:31:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassExample -->
+        <test-method is-config="true" signature="beforeMethodExample()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:02 IST" name="beforeMethodExample" finished-at="2023-12-19T15:31:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExample -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:10 IST" name="teardown" finished-at="2023-12-19T15:31:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="AfterSuite1()[pri:0, instance:testNG_annotationExample.NOP_LoginTest@156b88f5]" started-at="2023-12-19T15:31:10 IST" name="AfterSuite1" finished-at="2023-12-19T15:31:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite1 -->
+      </class> <!-- testNG_annotationExample.NOP_LoginTest -->
+      <class name="actionExample.RightClick_DoubleClickTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:actionExample.RightClick_DoubleClickTest@78123e82]" started-at="2023-12-19T15:30:57 IST" name="setup" finished-at="2023-12-19T15:31:01 IST" duration-ms="4445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDoubleClick()[pri:0, instance:actionExample.RightClick_DoubleClickTest@78123e82]" started-at="2023-12-19T15:31:01 IST" name="verifyDoubleClick" finished-at="2023-12-19T15:31:02 IST" duration-ms="1203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDoubleClick -->
+        <test-method signature="verifyRightClick()[pri:0, instance:actionExample.RightClick_DoubleClickTest@78123e82]" started-at="2023-12-19T15:31:02 IST" name="verifyRightClick" finished-at="2023-12-19T15:31:02 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRightClick -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:actionExample.RightClick_DoubleClickTest@78123e82]" started-at="2023-12-19T15:31:02 IST" name="teardown" finished-at="2023-12-19T15:31:10 IST" duration-ms="7113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- actionExample.RightClick_DoubleClickTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
